@@ -12,7 +12,7 @@ def handle_connection(client_socket, client_address):
         print(f"Received message from {client_address}: {data}")
         # Echo the received message back to the client
         client_socket.sendall(data.encode())
-    print(f"Disconnected from {client_address}")
+    # print(f"Disconnected from {client_address}")
     client_socket.close()
 
 # Function to start the server
