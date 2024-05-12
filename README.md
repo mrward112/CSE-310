@@ -39,8 +39,8 @@ I used python as the main programming language and used the socket, platform, su
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](https://www.webroot.com/us/en/resources/glossary/what-is-peer-to-peer-networking)
-* [Web Site Name](https://www.geeksforgeeks.org/platform-module-in-python/)
+* [Webroot](https://www.webroot.com/us/en/resources/glossary/what-is-peer-to-peer-networking)
+* [geeksforgeeks](https://www.geeksforgeeks.org/platform-module-in-python/)
 
 # Future Work
 
